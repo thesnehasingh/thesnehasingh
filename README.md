@@ -28,7 +28,8 @@
 - 👨‍💻 I’m currently working on web development technologies like `django`  etc.
 <br>
 
-- 📚 I’m currently learning **PYTHON** 😅
+- 📚 I’m currently learning **Django** .
+- 🎯 Master in Frontend, Python & C lang.
 - 💪🏼 Future Goals: Learn more technologies, Never stop creating new ideas.
 
 <p align="center">
