@@ -38,7 +38,25 @@
   <img alt="Information Technology" src="https://img.shields.io/badge/INFORMATION%20-TECHNOLOGY-BLUE?style=for-the-badge&color=236ad3&labelColor=1155ba"/>
 </p>
 
----
+<hr/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
+  Me as a code... 
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+</p>
+
+```javascript
+import { Sneha } from "Awesome";
+
+const languages = ["Python", "html", "Javascript", "C", "C++"];
+const frameworks = ["Bootstrap", "Django", "NestJS"];
+const databases = ["Mysql", "Sqlite", "Oracle"];
+
+Sneha.skills.push(...languages, ...frameworks, ...databases);
+```
+
+<hr/>
 
 <h3 align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=thesnehasingh&row=1&margin-w=10&&margin-h=40&theme=juicyfresh">
